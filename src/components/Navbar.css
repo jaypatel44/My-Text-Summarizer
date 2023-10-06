@@ -1,0 +1,12 @@
+.batan1{
+    border: 0px;
+    border-radius: 30px;
+    padding: 8px 20px;
+    background-color: rgb(43, 5, 5);
+    color: rgb(208, 226, 241);
+    outline: none;
+    text-decoration: none;
+}
+.batan1:hover{
+    color: rgb(59, 149, 228);
+}

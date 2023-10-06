@@ -1,0 +1,29 @@
+.batan{
+    background-color: #72bcd4;
+    border-radius: 18px;
+    border: 0px;
+    font-weight: 500;
+    color: aliceblue;
+    height: 3rem;
+    width: 8rem;
+    transition: all .5s;
+    outline: none;
+}
+.batan:hover{
+    background-color: rgb(74, 74, 250);
+    box-shadow: rgb(36, 36, 238) 6px 6px;
+    outline: none;
+}
+
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    border: 2px solid white;
+    border-radius: 40px;
+    padding: 20px;
+    color: aliceblue;
+    background-color: #2b0808;;
+}
